@@ -6,6 +6,7 @@
 
 ## 🚀 Live Demo
 
+https://smartfactoryos.vercel.app/
 ---
 
 ## 🧩 Features
